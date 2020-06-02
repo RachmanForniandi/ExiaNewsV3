@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExiaNewsV3</string>
+    <string name="dummy_word_1">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccccccccccccccccccccccccccccccccccccccccccccccccc</string>
+    <string name="news_title">News Title</string>
+</resources>
